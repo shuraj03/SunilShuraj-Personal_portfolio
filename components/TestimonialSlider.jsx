@@ -89,7 +89,7 @@ const testimonialData = [
   },
 
   {
-    image: "/t-avt-3.png",
+    image: "/harishspic.png",
     name: "Harish S",
     position: "Friend",
     message:
