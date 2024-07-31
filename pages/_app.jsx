@@ -4,6 +4,8 @@ import { useRouter } from "next/router";
 import Layout from "../components/Layout";
 import Transition from "../components/Transition";
 
+import { Analytics } from '@vercel/analytics/react';
+
 import "../styles/globals.css";
 
 function MyApp({ Component, pageProps }) {
@@ -17,6 +19,7 @@ function MyApp({ Component, pageProps }) {
           <Component {...pageProps} />
         </motion.div>
       </AnimatePresence>
+        <Analytics />
     </Layout>
   );
 }
