@@ -73,7 +73,7 @@ out/
 
 # Optional: if using Gatsby
 .cache/
-/public/
+
 
 # Optional: if using Yarn
 .yarn/
