@@ -1,0 +1,118 @@
+# Node modules
+/node_modules/
+
+# Build output
+/build/
+/dist/
+remote-repo/
+
+# Dependency directories
+/.pnp/
+/.pnp.js
+
+# Testing
+/coverage/
+/module-cache
+_SpecRunner.html
+_benchmarks_
+test/the-files-to-test.generated.js
+
+# Local environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Log files
+*.log
+
+# IDE and editor settings
+/.idea/
+/.vscode/
+/*.suo
+/*.ntvs*
+/*.njsproj
+/*.sln
+*.sublime-project
+*.sublime-workspace
+*.iml
+
+# macOS Finder
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Linux trash folder
+.Trash-*/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Build artifacts
+*.tgz
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# Optional: ignore certain config files
+/.eslintcache
+/.prettierignore
+/.prettierconfig
+/.eslintrc.js
+
+# Optional: if using Next.js
+/.next/
+out/
+
+# Optional: if using Gatsby
+.cache/
+/public/
+
+# Optional: if using Yarn
+.yarn/
+
+# Optional: if using PNPM
+.pnpm/
+
+# Optional: if using Vercel or Netlify
+.vercel/
+/.netlify/
+
+# Optional: if using Storybook
+.storybook/
+
+# Optional: if using Typescript
+*.tsbuildinfo
+
+# Optional: EmailJS related
+emailjs-config.json
+
+# React DevTools related files
+packages/react-devtools-core/dist/
+packages/react-devtools-extensions/chrome/build/
+packages/react-devtools-extensions/chrome/*.crx
+packages/react-devtools-extensions/chrome/*.pem
+packages/react-devtools-extensions/firefox/build/
+packages/react-devtools-extensions/firefox/*.xpi
+packages/react-devtools-extensions/firefox/*.pem
+packages/react-devtools-extensions/shared/build/
+packages/react-devtools-extensions/.tempUserDataDir
+packages/react-devtools-fusebox/dist/
+packages/react-devtools-inline/dist/
+packages/react-devtools-shell/dist/
+packages/react-devtools-timeline/dist/
+
+# Miscellaneous
+chrome-user-data/
+fixtures/dom/public/react-dom.js
+fixtures/dom/public/react.js
+*.pyc
+.grunt
+*~
