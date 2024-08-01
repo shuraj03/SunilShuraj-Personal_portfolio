@@ -2,23 +2,13 @@ import { motion } from "framer-motion";
 import { useState } from "react";
 import CountUp from "react-countup";
 import {
-  FaCss3,
   FaFigma,
-  FaHtml5,
-  FaJs,
-  FaReact,
-  FaWordpress,
-  FaUnity,
   FaPython,
-  FaSwift,
   FaJava,
   FaUikit,
 } from "react-icons/fa";
 import {
-  SiAdobephotoshop,
-  SiAdobexd,
-  SiFramer,
-  SiNextdotjs,
+
   SiCsharp,
   SiSwift ,
   SiOpencv,
@@ -34,7 +24,6 @@ import {
   FaRProject
 } from "react-icons/fa6";
 
-//import Avatar from "../../components/Avatar";
 import Circles from "../../components/Circles";
 import { fadeIn } from "../../variants";
 
@@ -147,16 +136,7 @@ const About = () => {
     <div className="h-full bg-primary/30 py-32 text-center xl:text-left">
       <Circles />
 
-      {/* avatar img */}
-      <motion.div
-        variants={fadeIn("right", 0.2)}
-        initial="hidden"
-        animate="show"
-        exit="hidden"
-        className="hidden xl:flex absolute bottom-0 -left-[370px]"
-      >
-        <Avatar />
-      </motion.div>
+
 
       <div className="container mx-auto h-full flex flex-col items-center xl:flex-row gap-x-6">
         {/* text */}
