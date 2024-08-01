@@ -70,7 +70,7 @@ const testimonialData = [
     name: "Sri Balaji S",
     position: "Friend",
     message:
-        "He was Very nice and kind. He is very desperate to complete the work on time without any delays",
+        "He is fit in Programming and Explainability,He is poor in Time management.",
   },
 
   {
@@ -93,7 +93,7 @@ const testimonialData = [
     name: "Harish S",
     position: "Friend",
     message:
-        "I've had the pleasure of working with Sunil Shuraj, and I can confidently attest to his exceptional talent and dedication to AI and Immersive Engineering. Throughout our collaboration, I've witnessed firsthand his leadership skills, passion for innovation, and gift for bringing people together to achieve a common goal. His expertise and enthusiasm are contagious, making him an invaluable asset to any team.",
+    "I've had the grate time with Sunil Shuraj, and I can confidently attest to his exceptional talent and dedication to AI and Immersive Engineering. Throughout our collaboration, I've witnessed firsthand his leadership skills, passion for innovation, and gift for bringing people together to achieve a common goal. His expertise and enthusiasm are contagious, making him an invaluable asset to any team."
   },
 
   {
