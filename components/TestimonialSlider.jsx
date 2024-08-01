@@ -85,7 +85,7 @@ const testimonialData = [
     name: "Shiva A",
     position: "Friend",
     message:
-        "He was Very nice and kind. He is very desperate to complete the work on time without any delays",
+        "His ability to turn complex problems into elegant, efficient code is truly impressive. His dedication to writing clean and maintainable code, along with his deep understanding of algorithms, makes him an invaluable asset to any project. ",
   },
 
   {
