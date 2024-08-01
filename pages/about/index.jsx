@@ -34,7 +34,7 @@ import {
   FaRProject
 } from "react-icons/fa6";
 
-import Avatar from "../../components/Avatar";
+//import Avatar from "../../components/Avatar";
 import Circles from "../../components/Circles";
 import { fadeIn } from "../../variants";
 
